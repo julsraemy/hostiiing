@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4000,
+    "id" : "https://julsraemy.github.io/hostiiing/images/edgar/canvas/",
+    "label" : {
+      "none" : [ "edgar" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://julsraemy.github.io/hostiiing/images/edgar/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://julsraemy.github.io/hostiiing/images/edgar/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 125,
+              "height" : 57
+            }, {
+              "width" : 250,
+              "height" : 113
+            }, {
+              "width" : 500,
+              "height" : 225
+            }, {
+              "width" : 1000,
+              "height" : 450
+            }, {
+              "width" : 2000,
+              "height" : 900
+            }, {
+              "width" : 4000,
+              "height" : 1800
+            } ],
+            "profile" : "level0",
+            "width" : 4000,
+            "id" : "https://julsraemy.github.io/hostiiing/images/edgar",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1800
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4000,
+          "id" : "https://julsraemy.github.io/hostiiing/images/edgar/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1800
+        },
+        "target" : "https://julsraemy.github.io/hostiiing/images/edgar/canvas/"
+      } ]
+    } ],
+    "height" : 1800
+  }, {
     "width" : 4032,
     "id" : "https://julsraemy.github.io/hostiiing/images/getty/canvas/",
     "label" : {
