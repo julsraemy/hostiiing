@@ -1,5 +1,5 @@
 {
-  "id" : "https://julsraemy.github.io/hostiiing/images/manifest.json",
+  "id" : "https://julsraemy.ch/hostiiing/images/manifest.json",
   "label" : {
     "en" : [ "All images loaded in julsraemy/hostiiing project" ]
   },
@@ -7,17 +7,17 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 4000,
-    "id" : "https://julsraemy.github.io/hostiiing/images/edgar/canvas/",
+    "id" : "https://julsraemy.ch/hostiiing/images/edgar/canvas/",
     "label" : {
       "none" : [ "edgar" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://julsraemy.github.io/hostiiing/images/edgar/AnnoPage/",
+      "id" : "https://julsraemy.ch/hostiiing/images/edgar/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://julsraemy.github.io/hostiiing/images/edgar/annotation/",
+        "id" : "https://julsraemy.ch/hostiiing/images/edgar/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -48,34 +48,34 @@
             } ],
             "profile" : "level0",
             "width" : 4000,
-            "id" : "https://julsraemy.github.io/hostiiing/images/edgar",
+            "id" : "https://julsraemy.ch/hostiiing/images/edgar",
             "type" : "ImageService3",
             "@context" : "http://iiif.io/api/image/3/context.json",
             "height" : 1800
           } ],
           "format" : "image/jpeg",
           "width" : 4000,
-          "id" : "https://julsraemy.github.io/hostiiing/images/edgar/full/max/0/default.jpg",
+          "id" : "https://julsraemy.ch/hostiiing/images/edgar/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 1800
         },
-        "target" : "https://julsraemy.github.io/hostiiing/images/edgar/canvas/"
+        "target" : "https://julsraemy.ch/hostiiing/images/edgar/canvas/"
       } ]
     } ],
     "height" : 1800
   }, {
     "width" : 4032,
-    "id" : "https://julsraemy.github.io/hostiiing/images/getty/canvas/",
+    "id" : "https://julsraemy.ch/hostiiing/images/getty/canvas/",
     "label" : {
       "none" : [ "getty" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://julsraemy.github.io/hostiiing/images/getty/AnnoPage/",
+      "id" : "https://julsraemy.ch/hostiiing/images/getty/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://julsraemy.github.io/hostiiing/images/getty/annotation/",
+        "id" : "https://julsraemy.ch/hostiiing/images/getty/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -106,18 +106,18 @@
             } ],
             "profile" : "level0",
             "width" : 4032,
-            "id" : "https://julsraemy.github.io/hostiiing/images/getty",
+            "id" : "https://julsraemy.ch/hostiiing/images/getty",
             "type" : "ImageService3",
             "@context" : "http://iiif.io/api/image/3/context.json",
             "height" : 2268
           } ],
           "format" : "image/jpeg",
           "width" : 4032,
-          "id" : "https://julsraemy.github.io/hostiiing/images/getty/full/max/0/default.jpg",
+          "id" : "https://julsraemy.ch/hostiiing/images/getty/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 2268
         },
-        "target" : "https://julsraemy.github.io/hostiiing/images/getty/canvas/"
+        "target" : "https://julsraemy.ch/hostiiing/images/getty/canvas/"
       } ]
     } ],
     "height" : 2268
