@@ -5,6 +5,7 @@
   "label" : {
     "en" : [ "Back and Forth from Boundary Objects to IIIF Resources - A Scientific Poster turned into a IIIF Manifest" ]
   },
+  "summary": { "en": [ "Back and Forth from Boundary Objects to IIIF Resources: The Recipes of a Community-driven Initiative Specifying Standards. Scientific poster presented at the DARIAH-CH Study Day in Mendrisio, Switzerland, on 20 October 2022" ] },
   "metadata": [
     {
       "label": {
@@ -79,11 +80,30 @@
       }
     }
   ],
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "Created by Julien A. Raemy" ] }
+  },
+  "provider": [
+    {
+      "id": "https://orcid.org/0000-0002-4711-5759",
+      "type": "Agent",
+      "label": { "en": [ "Julien A. Raemy" ] },
+      "homepage": [
+        {
+          "id": "https://julsraemy.ch",
+          "type": "Text",
+          "label": { "en": [ "Julien A. Raemy's Website" ] },
+          "format": "text/html"
+        }
+      ]  }
+    ],
   "homepage": [
     {
       "id": "https://doi.org/10.5281/zenodo.7015255",
       "type": "Text",
-      "label": { "en": [ "DOI of the poster on Zenodo" ] },
+      "label": { "en": [ "Zenodo Digital Object Identifier (DOI)" ] },
       "format": "text/html",
       "language": [ "en" ]
     }
