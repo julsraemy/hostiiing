@@ -1,0 +1,67 @@
+{
+  "id" : "https://julsraemy.ch/hostiiing/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in julsraemy/hostiiing project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 4032,
+    "id" : "https://julsraemy.ch/hostiiing/images/getty/canvas/",
+    "label" : {
+      "none" : [ "getty" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://julsraemy.ch/hostiiing/images/getty/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://julsraemy.ch/hostiiing/images/getty/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 71
+            }, {
+              "width" : 252,
+              "height" : 142
+            }, {
+              "width" : 504,
+              "height" : 284
+            }, {
+              "width" : 1008,
+              "height" : 567
+            }, {
+              "width" : 2016,
+              "height" : 1134
+            }, {
+              "width" : 4032,
+              "height" : 2268
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://julsraemy.ch/hostiiing/images/getty",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2268
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4032,
+          "id" : "https://julsraemy.ch/hostiiing/images/getty/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2268
+        },
+        "target" : "https://julsraemy.ch/hostiiing/images/getty/canvas/"
+      } ]
+    } ],
+    "height" : 2268
+  } ]
+}
