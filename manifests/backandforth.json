@@ -1,10 +1,93 @@
 {
-  "id" : "https://julsraemy.ch/hostiiing/manifests/backandforth.json",
-  "label" : {
-    "en" : [ "Back and Forth from Boundary Objects to IIIF Resources: The Recipes of a Community-driven Initiative Specifying Standards" ]
-  },
-  "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://julsraemy.ch/hostiiing/manifests/backandforth.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Back and Forth from Boundary Objects to IIIF Resources - A Scientific Poster turned into a IIIF Manifest" ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "en": [
+          "Back and Forth from Boundary Objects to IIIF Resources: The Recipes of a Community-driven Initiative Specifying Standards"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Author"
+        ]
+      },
+      "value": {
+        "en": [
+          "Julien A. Raemy"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "20 October 2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Conference"
+        ]
+      },
+      "value": {
+        "en": [
+          "DARIAH-CH Study Day"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place"
+        ]
+      },
+      "value": {
+        "en": [
+          "Mendrisio, Switzerland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publication Type"
+        ]
+      },
+      "value": {
+        "en": [
+          "Poster"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://doi.org/10.5281/zenodo.7015255",
+      "type": "Text",
+      "label": { "en": [ "DOI of the poster on Zenodo" ] },
+      "format": "text/html",
+      "language": [ "en" ]
+    }
+  ],
   "items" : [ {
     "width" : 7016,
     "id" : "https://julsraemy.ch/hostiiing/manifests/backandforth/canvas/",
@@ -63,5 +146,16 @@
       } ]
     } ],
     "height" : 9921
-  } ]
+  } ],
+  "seeAlso": [
+    {
+      "id": "https://julsraemy.ch/assets/metadata/backandforth.json",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Schema.org export generated from Zenodo"
+        ]
+      },
+      "format": "application/ld+json"
+    }
 }
