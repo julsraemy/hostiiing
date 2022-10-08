@@ -108,6 +108,20 @@
       "language": [ "en" ]
     }
   ],
+  "thumbnail": [
+    {
+      "id": "https://julsraemy.ch/hostiiing/images/backandforth/full/220,311/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://julsraemy.ch/hostiiing/images/backandforth",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
   "items" : [ {
     "width" : 7016,
     "id" : "https://julsraemy.ch/hostiiing/manifests/backandforth/canvas/",
