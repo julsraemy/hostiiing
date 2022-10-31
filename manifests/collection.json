@@ -11,5 +11,11 @@
       "en" : [ "Back and Forth from Boundary Objects to IIIF Resources: The Recipes of a Community-driven Initiative Specifying Standards" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://julsraemy.ch/hostiiing/manifests/murielle.json",
+    "label" : {
+      "de" : [ "Kuratierte Erinnerungen: Das Fotoalbum" ]
+    },
+    "type" : null
   } ]
 }
