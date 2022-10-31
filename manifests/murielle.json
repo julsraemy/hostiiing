@@ -1,0 +1,184 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://julsraemy.ch/hostiiing/manifests/murielle.json",
+  "label" : {
+    "de" : [ "Kuratierte Erinnerungen: Das Fotoalbum" ]
+  },
+  "summary" : {
+    "en" : [ "IIIF Manifest created for a conference" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "de" : [ "Sammlung" ]
+    },
+    "value" : {
+      "de" : [ "SGV_10 Familie Kreis" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Signatur" ]
+    },
+    "value" : {
+      "de" : [ "SGV_10A_00077_001 und SGV_10A_00078_001" ]
+    }
+  } ],
+  "rights" : "http://creativecommons.org/licenses/by-nc/4.0/",
+  "requiredStatement" : {
+    "label" : {
+      "de" : [ "Copyright" ]
+    },
+    "value" : {
+      "de" : [ "Schweizerische Gesellschaft für Volkskunde (SGV)" ],
+      "fr" : [ "Socité Suisse des Traditions populaires (SSTP)" ],
+      "it" : [ "Società Svizzera per le Tradizioni Popolari (SSTP)" ],
+      "en" : [ "Swiss Society for Folklore Studies (SSFS)" ]
+    }
+  },
+  "provider" : [ {
+    "id" : "https://d-nb.info/gnd/1186091584",
+    "type" : "Agent",
+    "label" : {
+      "de" : [ "Schweizerische Gesellschaft für Volkskunde. Fotoarchiv" ]
+    },
+    "logo" : [ {
+      "id" : "https://sipi.participatory-archives.ch/SGV_logo.jp2/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 149,
+      "width" : 500,
+      "service" : [ {
+        "id" : "https://sipi.participatory-archives.ch/SGV_logo.jp2",
+        "type" : "ImageService3",
+        "profile" : "level2"
+      } ]
+    } ],
+    "homepage" : [ {
+      "id" : "https://archiv.sgv-sstp.ch/",
+      "type" : "Text",
+      "label" : {
+        "en" : [ "SSFS Photo archives" ],
+        "de" : [ "SGV Fotoarchiv" ],
+        "fr" : [ "Archives de la SSTP" ]
+      },
+      "format" : "text/html",
+      "language" : [ "de" ]
+    } ]
+  } ],
+  "items" : [ {
+    "width" : 6326,
+    "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/canvas/",
+    "label" : {
+      "none" : [ "SGV_10A_00077_001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 198,
+              "height" : 149
+            }, {
+              "width" : 396,
+              "height" : 298
+            }, {
+              "width" : 791,
+              "height" : 595
+            }, {
+              "width" : 1582,
+              "height" : 1190
+            }, {
+              "width" : 3163,
+              "height" : 2379
+            }, {
+              "width" : 6326,
+              "height" : 4757
+            } ],
+            "profile" : "level0",
+            "width" : 6326,
+            "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4757
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6326,
+          "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 4757
+        },
+        "target" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/canvas/"
+      } ]
+    } ],
+    "height" : 4757
+  }, {
+    "width" : 6504,
+    "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/canvas/",
+    "label" : {
+      "none" : [ "SGV_10A_00078_001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 204,
+              "height" : 153
+            }, {
+              "width" : 407,
+              "height" : 306
+            }, {
+              "width" : 813,
+              "height" : 612
+            }, {
+              "width" : 1626,
+              "height" : 1223
+            }, {
+              "width" : 3252,
+              "height" : 2446
+            }, {
+              "width" : 6504,
+              "height" : 4891
+            } ],
+            "profile" : "level0",
+            "width" : 6504,
+            "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4891
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6504,
+          "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 4891
+        },
+        "target" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/canvas/"
+      } ]
+    } ],
+    "height" : 4891
+  } ]
+}
