@@ -1,6 +1,7 @@
 {
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "id" : "https://julsraemy.ch/hostiiing/manifests/murielle.json",
+  "type" : "Manifest",
   "label" : {
     "de" : [ "Kuratierte Erinnerungen: Das Fotoalbum" ]
   },
@@ -66,17 +67,17 @@
   } ],
   "items" : [ {
     "width" : 6326,
-    "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/canvas/",
+    "id" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00077_001/canvas/",
     "label" : {
       "none" : [ "SGV_10A_00077_001" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/AnnoPage/",
+      "id" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00077_001/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/annotation/",
+        "id" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00077_001/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -118,23 +119,23 @@
           "type" : "Image",
           "height" : 4757
         },
-        "target" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/canvas/"
+        "target" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00077_001/canvas/"
       } ]
     } ],
     "height" : 4757
   }, {
     "width" : 6504,
-    "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/canvas/",
+    "id" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00078_001/canvas/",
     "label" : {
       "none" : [ "SGV_10A_00078_001" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/AnnoPage/",
+      "id" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00078_001/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/annotation/",
+        "id" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00078_001/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -176,7 +177,7 @@
           "type" : "Image",
           "height" : 4891
         },
-        "target" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/canvas/"
+        "target" : "https://julsraemy.ch/hostiiing/manifests/murielle/SGV_10A_00078_001/canvas/"
       } ]
     } ],
     "height" : 4891
