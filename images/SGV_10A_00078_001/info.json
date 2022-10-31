@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 204,
+    "height" : 153
+  }, {
+    "width" : 407,
+    "height" : 306
+  }, {
+    "width" : 813,
+    "height" : 612
+  }, {
+    "width" : 1626,
+    "height" : 1223
+  }, {
+    "width" : 3252,
+    "height" : 2446
+  }, {
+    "width" : 6504,
+    "height" : 4891
+  } ],
+  "profile" : "level0",
+  "width" : 6504,
+  "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4891
+}
