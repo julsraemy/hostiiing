@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 217,
+    "height" : 141
+  }, {
+    "width" : 434,
+    "height" : 281
+  }, {
+    "width" : 868,
+    "height" : 561
+  }, {
+    "width" : 1735,
+    "height" : 1121
+  }, {
+    "width" : 3470,
+    "height" : 2241
+  }, {
+    "width" : 6939,
+    "height" : 4482
+  } ],
+  "profile" : "level0",
+  "width" : 6939,
+  "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4482
+}
