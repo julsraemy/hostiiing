@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 193,
+    "height" : 125
+  }, {
+    "width" : 386,
+    "height" : 249
+  }, {
+    "width" : 771,
+    "height" : 498
+  }, {
+    "width" : 1542,
+    "height" : 996
+  }, {
+    "width" : 3084,
+    "height" : 1992
+  }, {
+    "width" : 6168,
+    "height" : 3984
+  } ],
+  "profile" : "level0",
+  "width" : 6168,
+  "id" : "https://julsraemy.ch/hostiiing/images/pdm-overview",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3984
+}
