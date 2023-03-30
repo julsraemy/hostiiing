@@ -17,5 +17,11 @@
       "de" : [ "Kuratierte Erinnerungen: Das Fotoalbum" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://julsraemy.ch/hostiiing/manifests/SGV_10A_00050.json",
+    "label" : {
+      "en" : [ "Album SGV_10A_00050" ]
+    },
+    "type" : "Manifest"
   } ]
 }
