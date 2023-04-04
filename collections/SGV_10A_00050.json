@@ -73,6 +73,15 @@
             "Album SGV_10A_00050 (Paged)"
           ]
         }
-      }
+      },
+            {
+        "id": "https://julsraemy.ch/hostiiing/manifests/SGV_10A_00050_layers.json",
+        "type": "Manifest",
+        "label": {
+          "en": [
+            "Album SGV_10A_00050 (Layers)"
+          ]
+        }
+      }  
     ]
   }
