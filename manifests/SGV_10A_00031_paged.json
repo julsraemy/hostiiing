@@ -68,10 +68,10 @@
     } ]
   } ],
   "thumbnail" : [ {
-    "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00030_001.jp2/full/80,/0/default.jpg",
+    "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00030_001.jp2/full/80,/0/default.jpg",
     "type" : "Image",
     "service" : [ {
-      "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00030_001.jp2",
+      "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00030_001.jp2",
       "type" : "ImageService3",
       "profile" : "level2"
     } ],
@@ -94,12 +94,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_001.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_001.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9071,
           "width" : 12169,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_001.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_001.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -124,12 +124,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_002.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_002.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 8877,
           "width" : 12587,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_002.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_002.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -154,12 +154,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_003.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_003.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_003.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_003.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -184,12 +184,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_004.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_004.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_004.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_004.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -214,12 +214,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_005.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_005.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_005.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_005.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -244,12 +244,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_006.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_006.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_006.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_006.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -274,12 +274,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_007.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_007.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_007.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_007.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -304,12 +304,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_008.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_008.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_008.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_008.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -334,12 +334,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_009.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_009.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_009.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_009.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -364,12 +364,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_010.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_010.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_010.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_010.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -394,12 +394,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_011.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_011.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_011.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_011.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -424,12 +424,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_012.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_012.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_012.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_012.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -454,12 +454,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_013.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_013.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_013.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_013.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -484,12 +484,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_014.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_014.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_014.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_014.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -514,12 +514,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_015.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_015.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_015.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_015.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -544,12 +544,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_016.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_016.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_016.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_016.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -574,12 +574,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_017.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_017.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_017.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_017.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -604,12 +604,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_018.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_018.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_018.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_018.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -634,12 +634,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_019.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_019.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_019.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_019.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -664,12 +664,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_020.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_020.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_020.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_020.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -694,12 +694,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_021.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_021.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9167,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_021.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_021.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -724,12 +724,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_022.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_022.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_022.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_022.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -754,12 +754,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_023.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_023.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9200,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_023.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_023.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -784,12 +784,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_024.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_024.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_024.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_024.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -814,12 +814,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_025.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_025.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9186,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_025.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_025.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -844,12 +844,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_026.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_026.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_026.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_026.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -874,12 +874,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_027.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_027.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9216,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_027.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_027.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -904,12 +904,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_028.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_028.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_028.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_028.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -934,12 +934,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_029.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_029.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9204,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_029.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_029.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -964,12 +964,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_030.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_030.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_030.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_030.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -994,12 +994,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_031.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_031.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9213,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_031.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_031.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1024,12 +1024,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_032.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_032.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_032.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_032.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1054,12 +1054,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_033.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_033.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9190,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_033.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_033.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1084,12 +1084,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_034.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_034.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_034.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_034.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1114,12 +1114,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_035.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_035.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9167,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_035.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_035.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1144,12 +1144,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_036.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_036.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_036.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_036.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1174,12 +1174,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_037.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_037.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9174,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_037.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_037.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1204,12 +1204,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_038.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_038.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_038.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_038.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1234,12 +1234,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_039.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_039.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_039.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_039.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1264,12 +1264,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_040.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_040.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_040.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_040.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1294,12 +1294,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_041.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_041.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9207,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_041.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_041.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1324,12 +1324,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_042.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_042.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_042.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_042.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1354,12 +1354,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_044.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_044.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_044.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_044.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1384,12 +1384,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_045.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_045.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9225,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_045.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_045.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1414,12 +1414,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_046.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_046.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_046.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_046.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1444,12 +1444,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_047.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_047.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9199,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_047.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_047.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1474,12 +1474,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_048.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_048.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_048.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_048.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1504,12 +1504,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_049.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_049.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9218,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_049.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_049.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1534,12 +1534,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_050.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_050.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_050.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_050.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1564,12 +1564,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_051.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_051.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_051.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_051.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1594,12 +1594,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_052.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_052.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_052.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_052.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1624,12 +1624,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_053.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_053.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9169,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_053.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_053.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1654,12 +1654,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_054.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_054.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_054.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_054.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1684,12 +1684,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_055.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_055.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9192,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_055.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_055.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1714,12 +1714,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_056.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_056.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_056.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_056.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1744,12 +1744,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_057.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_057.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9225,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_057.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_057.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1774,12 +1774,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_058.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_058.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_058.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_058.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1804,12 +1804,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_059.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_059.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9181,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_059.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_059.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1834,12 +1834,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_060.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_060.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9223,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_060.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_060.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1864,12 +1864,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_061.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_061.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9220,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_061.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_061.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1894,12 +1894,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_062.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_062.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_062.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_062.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1924,12 +1924,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_063.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_063.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_063.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_063.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1954,12 +1954,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_064.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_064.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_064.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_064.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -1984,12 +1984,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_065.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_065.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9193,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_065.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_065.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2014,12 +2014,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_066.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_066.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_066.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_066.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2044,12 +2044,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_067.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_067.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9216,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_067.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_067.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2074,12 +2074,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_068.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_068.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_068.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_068.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2104,12 +2104,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_069.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_069.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9203,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_069.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_069.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2134,12 +2134,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_070.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_070.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9203,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_070.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_070.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2164,12 +2164,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_071.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_071.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9194,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_071.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_071.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2194,12 +2194,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_072.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_072.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_072.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_072.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2224,12 +2224,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_073.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_073.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9169,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_073.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_073.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2254,12 +2254,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_074.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_074.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_074.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_074.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2284,12 +2284,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_075.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_075.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9136,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_075.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_075.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2314,12 +2314,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_076.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_076.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_076.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_076.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2344,12 +2344,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_077.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_077.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9200,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_077.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_077.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2374,12 +2374,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_078.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_078.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_078.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_078.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2404,12 +2404,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_079.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_079.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9172,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_079.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_079.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2434,12 +2434,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_080.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_080.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_080.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_080.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2464,12 +2464,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_081.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_081.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9222,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_081.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_081.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2494,12 +2494,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_082.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_082.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9234,
           "width" : 12601,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_082.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_082.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2524,12 +2524,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_083.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_083.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 8872,
           "width" : 13302,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_083.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_083.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
@@ -2554,12 +2554,12 @@
         "type" : "Annotation",
         "motivation" : "painting",
         "body" : {
-          "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_084.jp2/full/max/0/default.jpg",
+          "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_084.jp2/full/max/0/default.jpg",
           "type" : "Image",
           "height" : 9071,
           "width" : 12169,
           "service" : [ {
-            "id" : "http://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_084.jp2",
+            "id" : "https://sipi.participatory-archives.ch/SGV_10/SGV_10A_00031_084.jp2",
             "type" : "ImageService3",
             "profile" : "level2"
           } ],
