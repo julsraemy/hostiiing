@@ -41,5 +41,11 @@
       "en" : [ "Album SGV_10A_00031" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://julsraemy.ch/hostiiing/manifests/SGV_10A_00031_paged.json",
+    "label" : {
+      "en" : [ "Album SGV_10A_00031 (Paged)" ]
+    },
+    "type" : "Manifest"
   } ]
 }
