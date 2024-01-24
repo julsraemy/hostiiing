@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3000,
+    "id" : "https://julsraemy.ch/hostiiing/images/something/canvas/",
+    "label" : {
+      "none" : [ "something" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://julsraemy.ch/hostiiing/images/something/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://julsraemy.ch/hostiiing/images/something/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 94,
+              "height" : 65
+            }, {
+              "width" : 188,
+              "height" : 130
+            }, {
+              "width" : 375,
+              "height" : 260
+            }, {
+              "width" : 750,
+              "height" : 519
+            }, {
+              "width" : 1500,
+              "height" : 1037
+            }, {
+              "width" : 3000,
+              "height" : 2073
+            } ],
+            "profile" : "level0",
+            "width" : 3000,
+            "id" : "https://julsraemy.ch/hostiiing/images/something",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2073
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3000,
+          "id" : "https://julsraemy.ch/hostiiing/images/something/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2073
+        },
+        "target" : "https://julsraemy.ch/hostiiing/images/something/canvas/"
+      } ]
+    } ],
+    "height" : 2073
+  }, {
     "width" : 6168,
     "id" : "https://julsraemy.ch/hostiiing/images/pdm-overview/canvas/",
     "label" : {
