@@ -47,5 +47,9 @@
       "en" : [ "Album SGV_10A_00031 (Paged)" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://julsraemy.ch/hostiiing/manifests/cas-manifest.json",
+    "label" : "Benedikt, von Aniane: Codex regularum - BSB Clm 28118"
   } ]
 }
