@@ -51,5 +51,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://julsraemy.ch/hostiiing/manifests/cas-manifest.json",
     "label" : "Benedikt, von Aniane: Codex regularum - BSB Clm 28118"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://julsraemy.ch/hostiiing/manifests/manifest.json",
+    "label" : "Appenzell, Landesarchiv Appenzell Innerrhoden, LAAI, C.II.01"
   } ]
 }
