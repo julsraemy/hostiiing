@@ -1,0 +1,3731 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://julsraemy.ch/hostiiing/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Appenzell, Landesarchiv Appenzell Innerrhoden, LAAI, C.II.01",
+  "metadata" : [ {
+    "label" : "Location",
+    "value" : "Appenzell"
+  }, {
+    "label" : "Collection Name",
+    "value" : "Landesarchiv Appenzell Innerrhoden"
+  }, {
+    "label" : "Shelfmark",
+    "value" : "LAAI, C.II.01"
+  }, {
+    "label" : "Document Type",
+    "value" : "Manuscript"
+  }, {
+    "label" : "DOI",
+    "value" : "10.5076/e-codices-laai-C-02-0001"
+  }, {
+    "label" : "Title (English)",
+    "value" : "Book of accounts 1519-1520"
+  }, {
+    "label" : "Material",
+    "value" : "Paper"
+  }, {
+    "label" : "Date of Origin (English)",
+    "value" : "1519-1520"
+  }, {
+    "label" : "Number of Pages",
+    "value" : "126"
+  }, {
+    "label" : "Dimensions",
+    "value" : "31 x 24 cm"
+  }, {
+    "label" : "Online Since",
+    "value" : "2020-10-08"
+  }, {
+    "label" : "Summary (English)",
+    "value" : "On 126 paper pages, this volume contains the income and expenditures of the territory of Appenzell  from February 1519 to February 1520. These accounts are among the most important sources for researching the history of the yet undivided region."
+  }, {
+    "label" : "Century",
+    "value" : "16th century"
+  }, {
+    "label" : "Text Language",
+    "value" : "German"
+  } ],
+  "description" : [ {
+    "@value" : "On 126 paper pages, this volume contains the income and expenditures of the territory of Appenzell  from February 1519 to February 1520. These accounts are among the most important sources for researching the history of the yet undivided region.",
+    "@language" : "en"
+  } ],
+  "license" : "http://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution" : "e-codices - Virtual Manuscript Library of Switzerland",
+  "logo" : "https://www.e-codices.ch/img/logo-for-iiif-manifest.png",
+  "service" : [ {
+    "@context" : "https://www.w3.org/ns/webmention",
+    "@id" : "https://www.e-codices.ch/webmention/receive",
+    "profile" : "https://www.w3.org/ns/webmention",
+    "label" : "e-codices Webmention Service"
+  } ],
+  "related" : "https://www.e-codices.ch/en/list/one/laai/C-02-0001",
+  "within" : "https://www.e-codices.ch/en/list/laai",
+  "sequences" : [ {
+    "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/sequence/Sequence-3336.json",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Standardabfolge",
+      "@language" : "de"
+    }, {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    }, {
+      "@value" : "Séquence normale",
+      "@language" : "fr"
+    }, {
+      "@value" : "Sequenza normale",
+      "@language" : "it"
+    } ],
+    "canvases" : [ {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e001.json",
+      "@type" : "sc:Canvas",
+      "label" : "Front cover",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e001.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e001.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e001.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e001.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e005.json",
+      "@type" : "sc:Canvas",
+      "label" : "Front paste-down",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e005.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e005.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e005.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e005.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0000_0001.json",
+      "@type" : "sc:Canvas",
+      "label" : "V1",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0000_0001.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0000_0001.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0000_0001.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0000_0001.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0000_0002.json",
+      "@type" : "sc:Canvas",
+      "label" : "V2",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0000_0002.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0000_0002.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0000_0002.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0000_0002.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0001.json",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0001.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0001.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0001.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0001.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0002.json",
+      "@type" : "sc:Canvas",
+      "label" : "2",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0002.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0002.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0002.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0002.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0003.json",
+      "@type" : "sc:Canvas",
+      "label" : "3",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0003.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0003.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0003.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0003.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0004.json",
+      "@type" : "sc:Canvas",
+      "label" : "4",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0004.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0004.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0004.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0004.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0005.json",
+      "@type" : "sc:Canvas",
+      "label" : "5",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0005.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0005.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0005.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0005.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0006.json",
+      "@type" : "sc:Canvas",
+      "label" : "6",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0006.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0006.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0006.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0006.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0007.json",
+      "@type" : "sc:Canvas",
+      "label" : "7",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0007.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0007.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0007.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0007.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0008.json",
+      "@type" : "sc:Canvas",
+      "label" : "8",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0008.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0008.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0008.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0008.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0009.json",
+      "@type" : "sc:Canvas",
+      "label" : "9",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0009.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0009.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0009.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0009.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0010.json",
+      "@type" : "sc:Canvas",
+      "label" : "10",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0010.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0010.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0010.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0010.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0011.json",
+      "@type" : "sc:Canvas",
+      "label" : "11",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0011.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0011.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0011.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0011.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0012.json",
+      "@type" : "sc:Canvas",
+      "label" : "12",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0012.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0012.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0012.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0012.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0013.json",
+      "@type" : "sc:Canvas",
+      "label" : "13",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0013.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0013.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0013.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0013.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0014.json",
+      "@type" : "sc:Canvas",
+      "label" : "14",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0014.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0014.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0014.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0014.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0015.json",
+      "@type" : "sc:Canvas",
+      "label" : "15",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0015.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0015.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0015.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0015.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0016.json",
+      "@type" : "sc:Canvas",
+      "label" : "16",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0016.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0016.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0016.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0016.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0017.json",
+      "@type" : "sc:Canvas",
+      "label" : "17",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0017.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0017.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0017.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0017.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0018.json",
+      "@type" : "sc:Canvas",
+      "label" : "18",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0018.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0018.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0018.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0018.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0019.json",
+      "@type" : "sc:Canvas",
+      "label" : "19",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0019.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0019.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0019.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0019.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0020.json",
+      "@type" : "sc:Canvas",
+      "label" : "20",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0020.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0020.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0020.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0020.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0021.json",
+      "@type" : "sc:Canvas",
+      "label" : "21",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0021.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0021.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0021.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0021.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0022.json",
+      "@type" : "sc:Canvas",
+      "label" : "22",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0022.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0022.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0022.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0022.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0023.json",
+      "@type" : "sc:Canvas",
+      "label" : "23",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0023.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0023.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0023.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0023.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0024.json",
+      "@type" : "sc:Canvas",
+      "label" : "24",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0024.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0024.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0024.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0024.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0025.json",
+      "@type" : "sc:Canvas",
+      "label" : "25",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0025.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0025.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0025.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0025.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0026.json",
+      "@type" : "sc:Canvas",
+      "label" : "26",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0026.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0026.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0026.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0026.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0027.json",
+      "@type" : "sc:Canvas",
+      "label" : "27",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0027.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0027.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0027.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0027.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0028.json",
+      "@type" : "sc:Canvas",
+      "label" : "28",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0028.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0028.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0028.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0028.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0029.json",
+      "@type" : "sc:Canvas",
+      "label" : "29",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0029.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0029.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0029.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0029.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0030.json",
+      "@type" : "sc:Canvas",
+      "label" : "30",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0030.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0030.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0030.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0030.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0031.json",
+      "@type" : "sc:Canvas",
+      "label" : "31",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0031.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0031.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0031.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0031.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0032.json",
+      "@type" : "sc:Canvas",
+      "label" : "32",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0032.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0032.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0032.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0032.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0033.json",
+      "@type" : "sc:Canvas",
+      "label" : "33",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0033.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0033.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0033.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0033.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0034.json",
+      "@type" : "sc:Canvas",
+      "label" : "34",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0034.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0034.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0034.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0034.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0035.json",
+      "@type" : "sc:Canvas",
+      "label" : "35",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0035.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0035.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0035.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0035.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0036.json",
+      "@type" : "sc:Canvas",
+      "label" : "36",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0036.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0036.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0036.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0036.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0037.json",
+      "@type" : "sc:Canvas",
+      "label" : "37",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0037.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0037.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0037.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0037.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0038.json",
+      "@type" : "sc:Canvas",
+      "label" : "38",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0038.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0038.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0038.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0038.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0039.json",
+      "@type" : "sc:Canvas",
+      "label" : "39",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0039.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0039.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0039.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0039.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0040.json",
+      "@type" : "sc:Canvas",
+      "label" : "40",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0040.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0040.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0040.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0040.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0041.json",
+      "@type" : "sc:Canvas",
+      "label" : "41",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0041.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0041.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0041.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0041.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0042.json",
+      "@type" : "sc:Canvas",
+      "label" : "42",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0042.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0042.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0042.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0042.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0043.json",
+      "@type" : "sc:Canvas",
+      "label" : "43",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0043.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0043.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0043.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0043.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0044.json",
+      "@type" : "sc:Canvas",
+      "label" : "44",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0044.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0044.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0044.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0044.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0045.json",
+      "@type" : "sc:Canvas",
+      "label" : "45",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0045.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0045.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0045.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0045.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0046.json",
+      "@type" : "sc:Canvas",
+      "label" : "46",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0046.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0046.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0046.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0046.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0047.json",
+      "@type" : "sc:Canvas",
+      "label" : "47",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0047.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0047.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0047.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0047.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0048.json",
+      "@type" : "sc:Canvas",
+      "label" : "48",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0048.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0048.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0048.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0048.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0049.json",
+      "@type" : "sc:Canvas",
+      "label" : "49",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0049.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0049.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0049.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0049.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0050.json",
+      "@type" : "sc:Canvas",
+      "label" : "50",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0050.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0050.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0050.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0050.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0051.json",
+      "@type" : "sc:Canvas",
+      "label" : "51",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0051.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0051.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0051.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0051.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0052.json",
+      "@type" : "sc:Canvas",
+      "label" : "52",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0052.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0052.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0052.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0052.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0053.json",
+      "@type" : "sc:Canvas",
+      "label" : "53",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0053.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0053.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0053.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0053.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0054.json",
+      "@type" : "sc:Canvas",
+      "label" : "54",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0054.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0054.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0054.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0054.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0055.json",
+      "@type" : "sc:Canvas",
+      "label" : "55",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0055.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0055.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0055.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0055.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0056.json",
+      "@type" : "sc:Canvas",
+      "label" : "56",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0056.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0056.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0056.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0056.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0057.json",
+      "@type" : "sc:Canvas",
+      "label" : "57",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0057.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0057.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0057.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0057.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0058.json",
+      "@type" : "sc:Canvas",
+      "label" : "58",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0058.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0058.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0058.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0058.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0059.json",
+      "@type" : "sc:Canvas",
+      "label" : "59",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0059.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0059.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0059.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0059.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0060.json",
+      "@type" : "sc:Canvas",
+      "label" : "60",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0060.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0060.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0060.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0060.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0061.json",
+      "@type" : "sc:Canvas",
+      "label" : "61",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0061.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0061.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0061.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0061.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0062.json",
+      "@type" : "sc:Canvas",
+      "label" : "62",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0062.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0062.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0062.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0062.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0063.json",
+      "@type" : "sc:Canvas",
+      "label" : "63",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0063.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0063.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0063.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0063.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0064.json",
+      "@type" : "sc:Canvas",
+      "label" : "64",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0064.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0064.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0064.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0064.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0065.json",
+      "@type" : "sc:Canvas",
+      "label" : "65",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0065.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0065.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0065.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0065.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0066.json",
+      "@type" : "sc:Canvas",
+      "label" : "66",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0066.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0066.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0066.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0066.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0067.json",
+      "@type" : "sc:Canvas",
+      "label" : "67",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0067.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0067.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0067.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0067.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0068.json",
+      "@type" : "sc:Canvas",
+      "label" : "68",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0068.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0068.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0068.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0068.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0069.json",
+      "@type" : "sc:Canvas",
+      "label" : "69",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0069.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0069.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0069.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0069.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0070.json",
+      "@type" : "sc:Canvas",
+      "label" : "70",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0070.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0070.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0070.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0070.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0071.json",
+      "@type" : "sc:Canvas",
+      "label" : "71",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0071.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0071.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0071.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0071.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0072.json",
+      "@type" : "sc:Canvas",
+      "label" : "72",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0072.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0072.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0072.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0072.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0073.json",
+      "@type" : "sc:Canvas",
+      "label" : "73",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0073.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0073.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0073.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0073.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0074.json",
+      "@type" : "sc:Canvas",
+      "label" : "74",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0074.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0074.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0074.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0074.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0075.json",
+      "@type" : "sc:Canvas",
+      "label" : "75",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0075.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0075.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0075.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0075.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0076.json",
+      "@type" : "sc:Canvas",
+      "label" : "76",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0076.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0076.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0076.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0076.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0077.json",
+      "@type" : "sc:Canvas",
+      "label" : "77",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0077.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0077.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0077.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0077.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0078.json",
+      "@type" : "sc:Canvas",
+      "label" : "78",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0078.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0078.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0078.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0078.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0079.json",
+      "@type" : "sc:Canvas",
+      "label" : "79",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0079.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0079.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0079.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0079.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0080.json",
+      "@type" : "sc:Canvas",
+      "label" : "80",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0080.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0080.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0080.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0080.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0081.json",
+      "@type" : "sc:Canvas",
+      "label" : "81",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0081.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0081.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0081.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0081.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0082.json",
+      "@type" : "sc:Canvas",
+      "label" : "82",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0082.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0082.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0082.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0082.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0083.json",
+      "@type" : "sc:Canvas",
+      "label" : "83",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0083.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0083.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0083.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0083.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0084.json",
+      "@type" : "sc:Canvas",
+      "label" : "84",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0084.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0084.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0084.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0084.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0085.json",
+      "@type" : "sc:Canvas",
+      "label" : "85",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0085.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0085.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0085.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0085.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0086.json",
+      "@type" : "sc:Canvas",
+      "label" : "86",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0086.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0086.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0086.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0086.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0087.json",
+      "@type" : "sc:Canvas",
+      "label" : "87",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0087.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0087.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0087.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0087.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0088.json",
+      "@type" : "sc:Canvas",
+      "label" : "88",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0088.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0088.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0088.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0088.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0089.json",
+      "@type" : "sc:Canvas",
+      "label" : "89",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0089.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0089.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0089.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0089.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0090.json",
+      "@type" : "sc:Canvas",
+      "label" : "90",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0090.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0090.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0090.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0090.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0091.json",
+      "@type" : "sc:Canvas",
+      "label" : "91",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0091.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0091.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0091.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0091.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0092.json",
+      "@type" : "sc:Canvas",
+      "label" : "92",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0092.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0092.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0092.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0092.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0093.json",
+      "@type" : "sc:Canvas",
+      "label" : "93",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0093.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0093.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0093.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0093.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0094.json",
+      "@type" : "sc:Canvas",
+      "label" : "94",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0094.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0094.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0094.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0094.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0095.json",
+      "@type" : "sc:Canvas",
+      "label" : "95",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0095.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0095.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0095.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0095.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0096.json",
+      "@type" : "sc:Canvas",
+      "label" : "96",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0096.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0096.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0096.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0096.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0097.json",
+      "@type" : "sc:Canvas",
+      "label" : "97",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0097.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0097.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0097.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0097.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0098.json",
+      "@type" : "sc:Canvas",
+      "label" : "98",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0098.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0098.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0098.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0098.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0099.json",
+      "@type" : "sc:Canvas",
+      "label" : "99",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0099.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0099.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0099.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0099.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0100.json",
+      "@type" : "sc:Canvas",
+      "label" : "100",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0100.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0100.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0100.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0100.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0101.json",
+      "@type" : "sc:Canvas",
+      "label" : "101",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0101.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0101.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0101.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0101.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0102.json",
+      "@type" : "sc:Canvas",
+      "label" : "102",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0102.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0102.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0102.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0102.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0103.json",
+      "@type" : "sc:Canvas",
+      "label" : "103",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0103.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0103.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0103.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0103.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0104.json",
+      "@type" : "sc:Canvas",
+      "label" : "104",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0104.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0104.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0104.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0104.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0105.json",
+      "@type" : "sc:Canvas",
+      "label" : "105",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0105.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0105.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0105.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0105.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0106.json",
+      "@type" : "sc:Canvas",
+      "label" : "106",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0106.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0106.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0106.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0106.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0107.json",
+      "@type" : "sc:Canvas",
+      "label" : "107",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0107.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0107.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0107.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0107.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0108.json",
+      "@type" : "sc:Canvas",
+      "label" : "108",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0108.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0108.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0108.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0108.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0109.json",
+      "@type" : "sc:Canvas",
+      "label" : "109",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0109.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0109.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0109.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0109.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0110.json",
+      "@type" : "sc:Canvas",
+      "label" : "110",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0110.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0110.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0110.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0110.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0111.json",
+      "@type" : "sc:Canvas",
+      "label" : "111",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0111.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0111.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0111.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0111.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0112.json",
+      "@type" : "sc:Canvas",
+      "label" : "112",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0112.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0112.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0112.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0112.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0113.json",
+      "@type" : "sc:Canvas",
+      "label" : "113",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0113.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0113.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0113.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0113.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0114.json",
+      "@type" : "sc:Canvas",
+      "label" : "114",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0114.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0114.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0114.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0114.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0115.json",
+      "@type" : "sc:Canvas",
+      "label" : "115",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0115.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0115.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0115.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0115.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0116.json",
+      "@type" : "sc:Canvas",
+      "label" : "116",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0116.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0116.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0116.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0116.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0117.json",
+      "@type" : "sc:Canvas",
+      "label" : "117",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0117.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0117.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0117.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0117.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0118.json",
+      "@type" : "sc:Canvas",
+      "label" : "118",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0118.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0118.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0118.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0118.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0119.json",
+      "@type" : "sc:Canvas",
+      "label" : "119",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0119.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0119.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0119.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0119.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0120.json",
+      "@type" : "sc:Canvas",
+      "label" : "120",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0120.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0120.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0120.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0120.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0121.json",
+      "@type" : "sc:Canvas",
+      "label" : "121",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0121.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0121.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0121.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0121.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0122.json",
+      "@type" : "sc:Canvas",
+      "label" : "122",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0122.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0122.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0122.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0122.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0123.json",
+      "@type" : "sc:Canvas",
+      "label" : "123",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0123.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0123.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0123.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0123.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0124.json",
+      "@type" : "sc:Canvas",
+      "label" : "124",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0124.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0124.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0124.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0124.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0125.json",
+      "@type" : "sc:Canvas",
+      "label" : "125",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0125.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0125.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0125.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0125.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0126.json",
+      "@type" : "sc:Canvas",
+      "label" : "126",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_0126.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_0126.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0126.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_0126.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0001.json",
+      "@type" : "sc:Canvas",
+      "label" : "N1",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_9999_0001.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0001.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0001.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0001.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002.json",
+      "@type" : "sc:Canvas",
+      "label" : "N2",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_9999_0002.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s001.json",
+      "@type" : "sc:Canvas",
+      "label" : "N2-s1",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_9999_0002-s001.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s001.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s001.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s001.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s002.json",
+      "@type" : "sc:Canvas",
+      "label" : "N2-s2",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_9999_0002-s002.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s002.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s002.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s002.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s003.json",
+      "@type" : "sc:Canvas",
+      "label" : "N2-s3",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_9999_0002-s003.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s003.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s003.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s003.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s004.json",
+      "@type" : "sc:Canvas",
+      "label" : "N2-s4",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_9999_0002-s004.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s004.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s004.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s004.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s005.json",
+      "@type" : "sc:Canvas",
+      "label" : "N2-s5",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_9999_0002-s005.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_9999_0002-s005.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s005.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_9999_0002-s005.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e006.json",
+      "@type" : "sc:Canvas",
+      "label" : "Rear paste-down",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e006.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e006.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e006.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e006.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e006-s001.json",
+      "@type" : "sc:Canvas",
+      "label" : "Rear paste-down a",
+      "height" : 8195,
+      "width" : 9128,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e006-s001.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e006-s001.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e006-s001.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8195,
+          "width" : 9128,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e006-s001.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e003.json",
+      "@type" : "sc:Canvas",
+      "label" : "Back cover",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e003.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e003.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e003.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e003.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e002.json",
+      "@type" : "sc:Canvas",
+      "label" : "Spine",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e002.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e002.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e002.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e002.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e004.json",
+      "@type" : "sc:Canvas",
+      "label" : "Fore edge",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e004.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e004.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e004.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e004.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e007.json",
+      "@type" : "sc:Canvas",
+      "label" : "Head",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e007.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e007.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e007.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e007.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e008.json",
+      "@type" : "sc:Canvas",
+      "label" : "Tail",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e008.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e008.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e008.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e008.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e009.json",
+      "@type" : "sc:Canvas",
+      "label" : "View front cover",
+      "height" : 6132,
+      "width" : 8176,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e009.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e009.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e009.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 6132,
+          "width" : 8176,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e009.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e010.json",
+      "@type" : "sc:Canvas",
+      "label" : "View back cover",
+      "height" : 6132,
+      "width" : 8176,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e010.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e010.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e010.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 6132,
+          "width" : 8176,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e010.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e011.json",
+      "@type" : "sc:Canvas",
+      "label" : "Open view",
+      "height" : 6132,
+      "width" : 8176,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_e011.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_e011.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e011.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 6132,
+          "width" : 8176,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_e011.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_MassE.json",
+      "@type" : "sc:Canvas",
+      "label" : "Ruler on binding",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_MassE.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_MassE.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_MassE.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_MassE.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_MassS.json",
+      "@type" : "sc:Canvas",
+      "label" : "Ruler on page",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_MassS.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_MassS.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_MassS.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_MassS.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_ProfilE.json",
+      "@type" : "sc:Canvas",
+      "label" : "QP card on binding",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_ProfilE.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_ProfilE.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_ProfilE.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_ProfilE.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_ProfilS.json",
+      "@type" : "sc:Canvas",
+      "label" : "QP card on page",
+      "height" : 8176,
+      "width" : 6132,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_ProfilS.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_ProfilS.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_ProfilS.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 8176,
+          "width" : 6132,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_ProfilS.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_ProfilSG.json",
+      "@type" : "sc:Canvas",
+      "label" : "Digital Colorchecker",
+      "height" : 6132,
+      "width" : 8176,
+      "images" : [ {
+        "@id" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/annotation/laai-C-02-0001_ProfilSG.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://www.e-codices.ch/metadata/iiif/laai-C-02-0001/canvas/laai-C-02-0001_ProfilSG.json",
+        "resource" : {
+          "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_ProfilSG.jp2/full/full/0/default/jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 6132,
+          "width" : 8176,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-codices.ch/loris/laai/laai-C-02-0001/laai-C-02-0001_ProfilSG.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
