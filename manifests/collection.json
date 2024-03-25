@@ -55,11 +55,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://julsraemy.ch/hostiiing/manifests/manifest.json",
     "label" : "Appenzell, Landesarchiv Appenzell Innerrhoden, LAAI, C.II.01"
-  }, {
-    "id" : "https://julsraemy.ch/hostiiing/manifests/iGP2S8mAT9i8YWjxERfA6A4_png.json",
-    "label" : {
-      "en" : [ "1724-07-29_Bernoulli_Johann_I-Scheuchzer_Johann_Jakob" ]
-    },
-    "type" : "Manifest"
-  } ]
+  }
 }
