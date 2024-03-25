@@ -1,0 +1,163 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://julsraemy.ch/hostiiing/manifests/iGP2S8mAT9i8YWjxERfA6A4_png.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "1724-07-29_Bernoulli_Johann_I-Scheuchzer_Johann_Jakob" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "en" : [ "1724-07-29_Bernoulli_Johann_I-Scheuchzer_Johann_Jakob" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Author" ]
+    },
+    "value" : {
+      "en" : [ "Johann I Bernoulli" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Recipient" ]
+    },
+    "value" : {
+      "en" : [ "Johann Jakob Scheuchzer" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "System number" ]
+    },
+    "value" : {
+      "en" : [ "57301.0" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Project" ]
+    },
+    "value" : {
+      "en" : [ "<a href=\"https://ark.dasch.swiss/ark:/72163/1/0801\" target=\"_blank\">Bernoulli Euler Online (BEOL)</a>" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "A IIIF Resource from the BEOL project provided by DaSCH, Swiss National Data and Service Center for the Humanities." ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "IIIF Manifest created by DaSCH, digital surrogate provided by the University of Basel Library" ]
+    }
+  },
+  "viewingDirection" : "left-to-right",
+  "rights" : "http://creativecommons.org/publicdomain/mark/1.0/",
+  "provider" : [ {
+    "id" : "https://ror.org/047f01g80",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "DaSCH, Swiss National Data and Service Center for the Humanities" ]
+    },
+    "homepage" : [ {
+      "id" : "https://www.dasch.swiss/",
+      "type" : "Text",
+      "label" : {
+        "en" : [ "DaSCH, Swiss National Data and Service Center for the Humanities" ]
+      },
+      "format" : "text/html"
+    } ],
+    "logo" : [ {
+      "id" : "https://iiif.dasch.swiss/0810/7WumAIYuJsQ-CroJQljo3CV.jp2/full/max/0/default.png",
+      "type" : "Image",
+      "height" : 209,
+      "width" : 557,
+      "service" : [ {
+        "id" : "https://iiif.dasch.swiss/0810/7WumAIYuJsQ-CroJQljo3CV.jp2",
+        "type" : "ImageService3",
+        "profile" : "level2"
+      } ],
+      "format" : "image/jpg"
+    } ]
+  } ],
+  "thumbnail" : [ {
+    "id" : "https://iiif.dasch.swiss/0801/HwMjYFcCYOa-E06alt82uMZ.jpx/full/80,/0/default.jpg",
+    "type" : "Image",
+    "service" : [ {
+      "id" : "https://iiif.dasch.swiss/0801/HwMjYFcCYOa-E06alt82uMZ.jpx",
+      "type" : "ImageService3",
+      "profile" : "level2"
+    } ],
+    "format" : "image/jpeg"
+  } ],
+  "homepage" : [ {
+    "id" : "https://ark.dasch.swiss/ark:/72163/1/0801/iGP2S8mAT9i8YWjxERfA6A4",
+    "type" : "Text",
+    "label" : {
+      "en" : [ "Homepage of the 1724-07-29_Bernoulli_Johann_I-Scheuchzer_Johann_Jakob resource" ]
+    },
+    "format" : "text/html"
+  } ],
+  "items" : [ {
+    "id" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pc2w876eERoyE95G3uwKAag",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "Ms_H_321_s069.tif" ]
+    },
+    "height" : 2776,
+    "width" : 2076,
+    "items" : [ {
+      "id" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pc2w876eERoyE95G3uwKAag/page/pc2w876eERoyE95G3uwKAag/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pc2w876eERoyE95G3uwKAag/annotation/pc2w876eERoyE95G3uwKAag/image",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.dasch.swiss/0801/5S4k6GosO4Z-DlcJdZ2CuNW.jpx/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2776,
+          "width" : 2076,
+          "service" : [ {
+            "id" : "https://iiif.dasch.swiss/0801/5S4k6GosO4Z-DlcJdZ2CuNW.jpx",
+            "type" : "ImageService3",
+            "profile" : "level2"
+          } ],
+          "format" : "image/jpeg"
+        },
+        "target" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pc2w876eERoyE95G3uwKAag"
+      } ]
+    } ]
+  }, {
+    "id" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pTT8FGXPlQei0SqVcTOwUKw",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "Ms_H_321_s070.tif" ]
+    },
+    "height" : 2761,
+    "width" : 2073,
+    "items" : [ {
+      "id" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pTT8FGXPlQei0SqVcTOwUKw/page/pTT8FGXPlQei0SqVcTOwUKw/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pTT8FGXPlQei0SqVcTOwUKw/annotation/pTT8FGXPlQei0SqVcTOwUKw/image",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://iiif.dasch.swiss/0801/HwMjYFcCYOa-E06alt82uMZ.jpx/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2761,
+          "width" : 2073,
+          "service" : [ {
+            "id" : "https://iiif.dasch.swiss/0801/HwMjYFcCYOa-E06alt82uMZ.jpx",
+            "type" : "ImageService3",
+            "profile" : "level2"
+          } ],
+          "format" : "image/jpeg"
+        },
+        "target" : "https://127.0.0.1:5000/data/0801/iGP2S8mAT9i8YWjxERfA6A4/canvas/pTT8FGXPlQei0SqVcTOwUKw"
+      } ]
+    } ]
+  } ]
+}
