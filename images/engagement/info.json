@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 126,
+    "height" : 188
+  }, {
+    "width" : 251,
+    "height" : 376
+  }, {
+    "width" : 501,
+    "height" : 751
+  }, {
+    "width" : 1002,
+    "height" : 1502
+  }, {
+    "width" : 2004,
+    "height" : 3004
+  }, {
+    "width" : 4007,
+    "height" : 6007
+  } ],
+  "profile" : "level0",
+  "width" : 4007,
+  "id" : "https://julsraemy.github.io/hostiiing/images/engagement",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 6007
+}
