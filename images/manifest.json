@@ -1,473 +1,498 @@
 {
-  "id" : "https://julsraemy.ch/hostiiing/images/manifest.json",
-  "label" : {
-    "en" : [ "All images loaded in julsraemy/hostiiing project" ]
-  },
-  "type" : "Manifest",
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "width" : 3000,
-    "id" : "https://julsraemy.ch/hostiiing/images/something/canvas/",
-    "label" : {
-      "none" : [ "something" ]
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://julsraemy.github.io/hostiiing/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in julsraemy/hostiiing project"
+        ]
     },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/something/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/something/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 94,
-              "height" : 65
-            }, {
-              "width" : 188,
-              "height" : 130
-            }, {
-              "width" : 375,
-              "height" : 260
-            }, {
-              "width" : 750,
-              "height" : 519
-            }, {
-              "width" : 1500,
-              "height" : 1037
-            }, {
-              "width" : 3000,
-              "height" : 2073
-            } ],
-            "profile" : "level0",
-            "width" : 3000,
-            "id" : "https://julsraemy.ch/hostiiing/images/something",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 2073
-          } ],
-          "format" : "image/jpeg",
-          "width" : 3000,
-          "id" : "https://julsraemy.ch/hostiiing/images/something/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 2073
+    "items": [
+        {
+            "id": "https://julsraemy.github.io/hostiiing/images/backandforth/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "backandforth"
+                ]
+            },
+            "height": 9921,
+            "width": 7016,
+            "items": [
+                {
+                    "id": "https://julsraemy.github.io/hostiiing/images/backandforth/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://julsraemy.github.io/hostiiing/images/backandforth/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://julsraemy.ch/hostiiing/images/backandforth/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 220,
+                                                "height": 311
+                                            },
+                                            {
+                                                "width": 439,
+                                                "height": 621
+                                            },
+                                            {
+                                                "width": 877,
+                                                "height": 1241
+                                            },
+                                            {
+                                                "width": 1754,
+                                                "height": 2481
+                                            },
+                                            {
+                                                "width": 3508,
+                                                "height": 4961
+                                            },
+                                            {
+                                                "width": 7016,
+                                                "height": 9921
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 7016,
+                                        "id": "https://julsraemy.ch/hostiiing/images/backandforth",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 9921
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://julsraemy.github.io/hostiiing/images/backandforth/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://julsraemy.ch/hostiiing/images/something/canvas/"
-      } ]
-    } ],
-    "height" : 2073
-  }, {
-    "width" : 6168,
-    "id" : "https://julsraemy.ch/hostiiing/images/pdm-overview/canvas/",
-    "label" : {
-      "none" : [ "pdm-overview" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/pdm-overview/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/pdm-overview/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 193,
-              "height" : 125
-            }, {
-              "width" : 386,
-              "height" : 249
-            }, {
-              "width" : 771,
-              "height" : 498
-            }, {
-              "width" : 1542,
-              "height" : 996
-            }, {
-              "width" : 3084,
-              "height" : 1992
-            }, {
-              "width" : 6168,
-              "height" : 3984
-            } ],
-            "profile" : "level0",
-            "width" : 6168,
-            "id" : "https://julsraemy.ch/hostiiing/images/pdm-overview",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 3984
-          } ],
-          "format" : "image/jpeg",
-          "width" : 6168,
-          "id" : "https://julsraemy.ch/hostiiing/images/pdm-overview/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 3984
+        {
+            "id": "https://julsraemy.github.io/hostiiing/images/something/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "something"
+                ]
+            },
+            "height": 2073,
+            "width": 3000,
+            "items": [
+                {
+                    "id": "https://julsraemy.github.io/hostiiing/images/something/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://julsraemy.github.io/hostiiing/images/something/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://julsraemy.ch/hostiiing/images/something/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 94,
+                                                "height": 65
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 130
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 260
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 519
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1037
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 2073
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3000,
+                                        "id": "https://julsraemy.ch/hostiiing/images/something",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 2073
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://julsraemy.github.io/hostiiing/images/something/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://julsraemy.ch/hostiiing/images/pdm-overview/canvas/"
-      } ]
-    } ],
-    "height" : 3984
-  }, {
-    "width" : 6168,
-    "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview-2/canvas/",
-    "label" : {
-      "none" : [ "phd-datamodel-overview-2" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview-2/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview-2/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 193,
-              "height" : 125
-            }, {
-              "width" : 386,
-              "height" : 249
-            }, {
-              "width" : 771,
-              "height" : 498
-            }, {
-              "width" : 1542,
-              "height" : 996
-            }, {
-              "width" : 3084,
-              "height" : 1992
-            }, {
-              "width" : 6168,
-              "height" : 3984
-            } ],
-            "profile" : "level0",
-            "width" : 6168,
-            "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview-2",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 3984
-          } ],
-          "format" : "image/jpeg",
-          "width" : 6168,
-          "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview-2/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 3984
+        {
+            "id": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00077_001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "SGV_10A_00077_001"
+                ]
+            },
+            "height": 4757,
+            "width": 6326,
+            "items": [
+                {
+                    "id": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00077_001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00077_001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 198,
+                                                "height": 149
+                                            },
+                                            {
+                                                "width": 396,
+                                                "height": 298
+                                            },
+                                            {
+                                                "width": 791,
+                                                "height": 595
+                                            },
+                                            {
+                                                "width": 1582,
+                                                "height": 1190
+                                            },
+                                            {
+                                                "width": 3163,
+                                                "height": 2379
+                                            },
+                                            {
+                                                "width": 6326,
+                                                "height": 4757
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 6326,
+                                        "id": "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4757
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00077_001/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview-2/canvas/"
-      } ]
-    } ],
-    "height" : 3984
-  }, {
-    "width" : 6939,
-    "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview/canvas/",
-    "label" : {
-      "none" : [ "phd-datamodel-overview" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 217,
-              "height" : 141
-            }, {
-              "width" : 434,
-              "height" : 281
-            }, {
-              "width" : 868,
-              "height" : 561
-            }, {
-              "width" : 1735,
-              "height" : 1121
-            }, {
-              "width" : 3470,
-              "height" : 2241
-            }, {
-              "width" : 6939,
-              "height" : 4482
-            } ],
-            "profile" : "level0",
-            "width" : 6939,
-            "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 4482
-          } ],
-          "format" : "image/jpeg",
-          "width" : 6939,
-          "id" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 4482
+        {
+            "id": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00078_001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "SGV_10A_00078_001"
+                ]
+            },
+            "height": 4891,
+            "width": 6504,
+            "items": [
+                {
+                    "id": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00078_001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00078_001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 204,
+                                                "height": 153
+                                            },
+                                            {
+                                                "width": 407,
+                                                "height": 306
+                                            },
+                                            {
+                                                "width": 813,
+                                                "height": 612
+                                            },
+                                            {
+                                                "width": 1626,
+                                                "height": 1223
+                                            },
+                                            {
+                                                "width": 3252,
+                                                "height": 2446
+                                            },
+                                            {
+                                                "width": 6504,
+                                                "height": 4891
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 6504,
+                                        "id": "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4891
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://julsraemy.github.io/hostiiing/images/SGV_10A_00078_001/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://julsraemy.ch/hostiiing/images/phd-datamodel-overview/canvas/"
-      } ]
-    } ],
-    "height" : 4482
-  }, {
-    "width" : 6504,
-    "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/canvas/",
-    "label" : {
-      "none" : [ "SGV_10A_00078_001" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 204,
-              "height" : 153
-            }, {
-              "width" : 407,
-              "height" : 306
-            }, {
-              "width" : 813,
-              "height" : 612
-            }, {
-              "width" : 1626,
-              "height" : 1223
-            }, {
-              "width" : 3252,
-              "height" : 2446
-            }, {
-              "width" : 6504,
-              "height" : 4891
-            } ],
-            "profile" : "level0",
-            "width" : 6504,
-            "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 4891
-          } ],
-          "format" : "image/jpeg",
-          "width" : 6504,
-          "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 4891
+        {
+            "id": "https://julsraemy.github.io/hostiiing/images/getty/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "getty"
+                ]
+            },
+            "height": 2268,
+            "width": 4032,
+            "items": [
+                {
+                    "id": "https://julsraemy.github.io/hostiiing/images/getty/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://julsraemy.github.io/hostiiing/images/getty/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://julsraemy.ch/hostiiing/images/getty/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 71
+                                            },
+                                            {
+                                                "width": 252,
+                                                "height": 142
+                                            },
+                                            {
+                                                "width": 504,
+                                                "height": 284
+                                            },
+                                            {
+                                                "width": 1008,
+                                                "height": 567
+                                            },
+                                            {
+                                                "width": 2016,
+                                                "height": 1134
+                                            },
+                                            {
+                                                "width": 4032,
+                                                "height": 2268
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4032,
+                                        "id": "https://julsraemy.ch/hostiiing/images/getty",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 2268
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://julsraemy.github.io/hostiiing/images/getty/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00078_001/canvas/"
-      } ]
-    } ],
-    "height" : 4891
-  }, {
-    "width" : 6326,
-    "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/canvas/",
-    "label" : {
-      "none" : [ "SGV_10A_00077_001" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 198,
-              "height" : 149
-            }, {
-              "width" : 396,
-              "height" : 298
-            }, {
-              "width" : 791,
-              "height" : 595
-            }, {
-              "width" : 1582,
-              "height" : 1190
-            }, {
-              "width" : 3163,
-              "height" : 2379
-            }, {
-              "width" : 6326,
-              "height" : 4757
-            } ],
-            "profile" : "level0",
-            "width" : 6326,
-            "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 4757
-          } ],
-          "format" : "image/jpeg",
-          "width" : 6326,
-          "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 4757
-        },
-        "target" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00077_001/canvas/"
-      } ]
-    } ],
-    "height" : 4757
-  }, {
-    "width" : 7016,
-    "id" : "https://julsraemy.ch/hostiiing/images/backandforth/canvas/",
-    "label" : {
-      "none" : [ "backandforth" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/backandforth/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/backandforth/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 220,
-              "height" : 311
-            }, {
-              "width" : 439,
-              "height" : 621
-            }, {
-              "width" : 877,
-              "height" : 1241
-            }, {
-              "width" : 1754,
-              "height" : 2481
-            }, {
-              "width" : 3508,
-              "height" : 4961
-            }, {
-              "width" : 7016,
-              "height" : 9921
-            } ],
-            "profile" : "level0",
-            "width" : 7016,
-            "id" : "https://julsraemy.ch/hostiiing/images/backandforth",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 9921
-          } ],
-          "format" : "image/jpeg",
-          "width" : 7016,
-          "id" : "https://julsraemy.ch/hostiiing/images/backandforth/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 9921
-        },
-        "target" : "https://julsraemy.ch/hostiiing/images/backandforth/canvas/"
-      } ]
-    } ],
-    "height" : 9921
-  }, {
-    "width" : 4032,
-    "id" : "https://julsraemy.ch/hostiiing/images/getty/canvas/",
-    "label" : {
-      "none" : [ "getty" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://julsraemy.ch/hostiiing/images/getty/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://julsraemy.ch/hostiiing/images/getty/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 126,
-              "height" : 71
-            }, {
-              "width" : 252,
-              "height" : 142
-            }, {
-              "width" : 504,
-              "height" : 284
-            }, {
-              "width" : 1008,
-              "height" : 567
-            }, {
-              "width" : 2016,
-              "height" : 1134
-            }, {
-              "width" : 4032,
-              "height" : 2268
-            } ],
-            "profile" : "level0",
-            "width" : 4032,
-            "id" : "https://julsraemy.ch/hostiiing/images/getty",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 2268
-          } ],
-          "format" : "image/jpeg",
-          "width" : 4032,
-          "id" : "https://julsraemy.ch/hostiiing/images/getty/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 2268
-        },
-        "target" : "https://julsraemy.ch/hostiiing/images/getty/canvas/"
-      } ]
-    } ],
-    "height" : 2268
-  } ]
+        {
+            "id": "https://julsraemy.github.io/hostiiing/images/pdm-overview/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pdm-overview"
+                ]
+            },
+            "height": 3984,
+            "width": 6168,
+            "items": [
+                {
+                    "id": "https://julsraemy.github.io/hostiiing/images/pdm-overview/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://julsraemy.github.io/hostiiing/images/pdm-overview/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://julsraemy.ch/hostiiing/images/pdm-overview/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 193,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 386,
+                                                "height": 249
+                                            },
+                                            {
+                                                "width": 771,
+                                                "height": 498
+                                            },
+                                            {
+                                                "width": 1542,
+                                                "height": 996
+                                            },
+                                            {
+                                                "width": 3084,
+                                                "height": 1992
+                                            },
+                                            {
+                                                "width": 6168,
+                                                "height": 3984
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 6168,
+                                        "id": "https://julsraemy.ch/hostiiing/images/pdm-overview",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3984
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://julsraemy.github.io/hostiiing/images/pdm-overview/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
