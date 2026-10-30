@@ -17,47 +17,42 @@
       "id": "https://d-nb.info/gnd/1186091584",
       "type": "Agent",
       "label": {
-        "de": [
-          "Schweizerische Gesellschaft für Volkskunde. Fotoarchiv"
+        "en": [
+          "Empirische Kulturwissenschaft Schweiz. Fotoarchiv"
         ]
       },
       "homepage": [
         {
-          "id": "https://archiv.sgv-sstp.ch/",
+          "id": "https://www.ekws.ch/de/archiv",
           "type": "Text",
           "label": {
             "en": [
-              "SSFS Photo archives"
-            ],
-            "de": [
-              "SGV Fotoarchiv"
-            ],
-            "fr": [
-              "Archives de la SSTP"
+              "EKWS Fotoarchiv"
             ]
           },
-          "format": "text/html",
-          "language": [
-            "de"
-          ]
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.ekws.ch/_next/static/media/ekws-logo-full.bd88c732.svg",
+          "type": "Image",
+          "format": "image/svg+xml"
         }
       ]
     }
   ],
-  "logo": [
+  "seeAlso": [
     {
-      "id": "https://sipi.participatory-archives.ch/SGV_logo.jp2/full/max/0/default.jpg",
-      "type": "Image",
-      "height": 149,
-      "width": 500,
-      "service": [
-        {
-          "id": "https://sipi.participatory-archives.ch/SGV_logo.jp2",
-          "type": "ImageService3",
-          "profile": "level2"
-        }
-      ],
-      "format": "image/jpg"
+      "id": "https://julsraemy.ch/hostiiing/objects/SGV_10A_00031.json",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Linked Art description of the album"
+        ]
+      },
+      "format": "application/ld+json",
+      "profile": "https://linked.art/ns/v1/linked-art.json"
     }
   ],
   "items": [
@@ -66,9 +61,23 @@
       "type": "Manifest",
       "label": {
         "en": [
-          "Album SGV_10A_00031 (All scans)"
+          "Album SGV_10A_00031 (Individuals)"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://media.memobase.ch/iiif/sgv-002-SGV_10A_00031_001-1/open/iiif/2/sgv-002-SGV_10A_00031_001-1.jpg/full/80,/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "@id": "https://media.memobase.ch/iiif/sgv-002-SGV_10A_00031_001-1/open/iiif/2/sgv-002-SGV_10A_00031_001-1.jpg",
+              "@type": "ImageService2",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://julsraemy.ch/hostiiing/manifests/SGV_10A_00031_paged.json",
@@ -77,7 +86,21 @@
         "en": [
           "Album SGV_10A_00031 (Paged)"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://media.memobase.ch/iiif/sgv-002-SGV_10A_00031_001-1/open/iiif/2/sgv-002-SGV_10A_00031_001-1.jpg/full/80,/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "@id": "https://media.memobase.ch/iiif/sgv-002-SGV_10A_00031_001-1/open/iiif/2/sgv-002-SGV_10A_00031_001-1.jpg",
+              "@type": "ImageService2",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
     },
     {
       "id": "https://julsraemy.ch/hostiiing/manifests/SGV_10A_00031_layers.json",
@@ -86,7 +109,21 @@
         "en": [
           "Album SGV_10A_00031 (Layers)"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://media.memobase.ch/iiif/sgv-002-SGV_10A_00031_001-1/open/iiif/2/sgv-002-SGV_10A_00031_001-1.jpg/full/80,/0/default.jpg",
+          "type": "Image",
+          "service": [
+            {
+              "@id": "https://media.memobase.ch/iiif/sgv-002-SGV_10A_00031_001-1/open/iiif/2/sgv-002-SGV_10A_00031_001-1.jpg",
+              "@type": "ImageService2",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
     }
   ]
 }
