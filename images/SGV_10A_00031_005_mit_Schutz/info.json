@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 116,
+    "height" : 85
+  }, {
+    "width" : 231,
+    "height" : 170
+  }, {
+    "width" : 462,
+    "height" : 339
+  }, {
+    "width" : 924,
+    "height" : 677
+  }, {
+    "width" : 1847,
+    "height" : 1354
+  }, {
+    "width" : 3694,
+    "height" : 2707
+  } ],
+  "profile" : "level0",
+  "width" : 3694,
+  "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00031_005_mit_Schutz",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2707
+}

@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 115,
+    "height" : 86
+  }, {
+    "width" : 229,
+    "height" : 171
+  }, {
+    "width" : 458,
+    "height" : 342
+  }, {
+    "width" : 916,
+    "height" : 683
+  }, {
+    "width" : 1832,
+    "height" : 1365
+  }, {
+    "width" : 3663,
+    "height" : 2729
+  } ],
+  "profile" : "level0",
+  "width" : 3663,
+  "id" : "https://julsraemy.ch/hostiiing/images/SGV_10A_00031_001_mit_Kordel",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2729
+}
